@@ -1,1 +1,1 @@
-const asd = 'qwe'
+const asd = 'q'
